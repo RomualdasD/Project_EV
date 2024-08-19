@@ -1,0 +1,6 @@
+
+Užduotis:
+Elektromobilių statistikos analizė. Automobilių registracijų kiekio prognozė pagal metus ir mėnesį.  Lietuva
+
+duomenys parsisiuntimui:
+https://www.regitra.lt/lt/paslaugos/duomenu-teikimas/atviri-duomenys-1/transporto-priemones-3
